@@ -1,6 +1,6 @@
 IET DEPARTMENT
 
-![](media/image1.png){width="3.3854166666666665in"
+![](image1.png){width="3.3854166666666665in"
 height="3.3958333333333335in"}
 
 Data Structure and Algorithms
@@ -169,7 +169,7 @@ end, or any given index of array.
 
 add data at the end of the array
 
-![](media/image2.png){width="3.5749004811898515in"
+![](image2.png){width="3.5749004811898515in"
 height="2.9819903762029747in"}
 
 III. **Add data at the specific position of the array**
@@ -260,7 +260,7 @@ Consider LA is a linear array with N elements and K is a positive
 integer such that K\<=N. Following is the algorithm to delete an element
 available at the Kth position of LA.
 
-![](media/image3.png){width="2.689527559055118in"
+![](image3.png){width="2.689527559055118in"
 height="1.460223097112861in"}
 
 \#include \<iostream\>
